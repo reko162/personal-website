@@ -11,9 +11,12 @@ A simple, responsive personal portfolio website built with **HTML**, **CSS**, an
 
 ## Technologies Used
 
-- **HTML** – Structure of the website
+- **HTML** – Page structure
 - **CSS** – Styling and layout
-- **SCSS** – Advanced styling with variables, nesting, and mixins
+- **SCSS** – Modular and advanced styling (already compiled to CSS)
+- **CSS Flexbox** – Flexible, responsive layouts
+- **CSS Grid** – Advanced grid-based layouts
+
 
 ## Live Preview
 

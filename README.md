@@ -43,12 +43,13 @@ To run the project locally:
    
 3. Open the index.html file in your browser.
 
-Feel free to fork, customize, or contribute!
-
 
 ## Author
 
 [Omar Youssef](https://www.linkedin.com/in/omar-youssef-elanany/)
+
+
+Feel free to fork, customize, or contribute!
 
 
 

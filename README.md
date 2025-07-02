@@ -30,7 +30,9 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://reko162.github.io/personal-website.git
+   git clone https://github.com/reko162/personal-website.git
+
+
 
 2. Navigate to the project folder:
   `$ cd personal-website`
